@@ -1,91 +1,58 @@
+# Your Name
+**Deep Learning Engineer / AI Researcher** [Email](mailto:your.email@example.com) | [GitHub](https://github.com/XiangcenWu) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio/HuggingFace](https://huggingface.co/yourname)
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+
+## Professional Summary
+Results-driven Deep Learning Engineer with expertise in **[Computer Vision / NLP / Generative AI]**. Proficient in building, training, and deploying large-scale neural networks using **PyTorch** and **TensorFlow**. Experienced in optimizing model latency and accuracy for production-level AI applications.
+
 ---
-# Xiangcen Wu
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Technical Skills
+* **Frameworks:** PyTorch, TensorFlow, JAX, Hugging Face Transformers, Keras.
+* **Languages:** Python (Expert), C++, SQL, Bash.
+* **Deep Learning:** CNNs, Transformers, LLMs, GANs, Diffusion Models, Reinforcement Learning.
+* **Tools & MLOps:** Docker, Kubernetes, Weights & Biases, MLflow, ONNX, TensorRT, Git.
+* **Cloud:** AWS (SageMaker), GCP (Vertex AI), Azure ML.
 
+---
 
-## Currently
+## Research & Work Experience
 
-Standing on the shoulders of giants
+### **[Role, e.g., AI Research Intern]** | [Company/University Name]
+*Month Year – Present*
+* Developed a **[Model Type, e.g., Transformer-based]** architecture for **[Task, e.g., time-series forecasting]**, resulting in a **[XX]% increase in accuracy** over the baseline.
+* Optimized model inference time by **[XX]%** using **[Technique, e.g., Quantization or Pruning]** for deployment on edge devices.
+* Collaborated with a cross-functional team to curate a dataset of **[Size, e.g., 1M+]** samples, improving model robustness against out-of-distribution data.
 
-### Specialized in
+### **[Role, e.g., Machine Learning Engineer]** | [Previous Company]
+*Month Year – Month Year*
+* Implemented an automated data pipeline using **[Tool, e.g., Apache Airflow]** that reduced data preprocessing time by **[XX]** hours per week.
+* Trained and fine-tuned **[Specific Model, e.g., ResNet-101 or BERT]** for **[Industry Problem]**, achieving state-of-the-art results on internal benchmarks.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+---
 
+## Selected Projects
 
-### Research interests
+### **[Project Name, e.g., Generative Image Synthesis with GANs]**
+* **Tech Stack:** PyTorch, TorchVision, CUDA.
+* Built a custom GAN architecture to generate high-resolution images; implemented **Frechet Inception Distance (FID)** to quantify image quality.
+* [Link to Repo/Demo]
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### **[Project Name, e.g., Distributed Training Pipeline for LLMs]**
+* **Tech Stack:** PyTorch Distributed, Deepspeed, Hugging Face.
+* Architected a distributed training script to fine-tune a 7B parameter model across 4x A100 GPUs, utilizing **ZeRO optimization**.
 
+---
 
 ## Education
+* **[Degree Name, e.g., MS in Computer Science]** | [University Name] | *Graduation Year*
+    * *Relevant Coursework:* Neural Networks, Computer Vision, Optimization for ML.
+    * *Thesis:* [Title of your thesis or major research project].
 
-`1654-1660`
-__The King's School, Grantham.__
+---
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Publications / Certifications
+* **[Publication Title]** – [Conference Name, e.g., CVPR/NeurIPS] (Year)
+* **TensorFlow Developer Certificate** – Google
+* **Deep Learning Specialization** – Coursera (DeepLearning.AI)
